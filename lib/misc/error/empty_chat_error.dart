@@ -1,0 +1,1 @@
+class EmptyChatError extends Error {}

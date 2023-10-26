@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "151553594780",
+    "firebase_url": "https://webmasterbagasi-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "webmasterbagasi",
+    "storage_bucket": "webmasterbagasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151553594780:android:afccd08f09e9f2d5992459",
+        "android_client_info": {
+          "package_name": "com.masterbagasi.masterbagasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151553594780-qoeh6516ao2kln1ln1e4saknuuagh8jo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.masterbagasi.masterbagasi",
+            "certificate_hash": "6c7697109c0cd565c818c0acbffce070b13c7772"
+          }
+        },
+        {
+          "client_id": "151553594780-0jp8jpohbns4pb0oboev0e9f53qlfaom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsCVicIratxXUpeifxcKS7N0oZvj_ey5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151553594780-0jp8jpohbns4pb0oboev0e9f53qlfaom.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "151553594780-8mgsd886fsecg8pu6qv7vrnlhh1vgvg4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.masterbagasi.masterbagasi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

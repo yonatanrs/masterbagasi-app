@@ -1,0 +1,1 @@
+class CartEmptyError extends Error {}

@@ -1,0 +1,1 @@
+class TokenEmptyError extends Error {}

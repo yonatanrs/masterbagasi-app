@@ -1,0 +1,12 @@
+import '../controllerstate/listitemcontrollerstate/load_data_result_dynamic_list_item_controller_state.dart';
+import 'parameterized_entity_and_list_item_controller_state_mediator_parameter.dart';
+
+class HorizontalDynamicItemCarouselParameterizedEntityAndListItemControllerStateMediatorParameter extends ParameterizedEntityAndListItemControllerStateMediatorParameter {
+  List<BaseLoadDataResultDynamicListItemControllerState> dynamicItemLoadDataResultDynamicListItemControllerStateList;
+  void Function() onSetState;
+
+  HorizontalDynamicItemCarouselParameterizedEntityAndListItemControllerStateMediatorParameter({
+    required this.dynamicItemLoadDataResultDynamicListItemControllerStateList,
+    required this.onSetState
+  });
+}

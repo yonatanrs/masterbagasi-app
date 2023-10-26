@@ -1,0 +1,1 @@
+class SearchNotFoundError extends Error {}

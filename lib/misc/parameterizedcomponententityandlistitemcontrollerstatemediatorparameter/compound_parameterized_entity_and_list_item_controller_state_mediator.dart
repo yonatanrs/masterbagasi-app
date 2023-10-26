@@ -1,0 +1,9 @@
+import 'parameterized_entity_and_list_item_controller_state_mediator_parameter.dart';
+
+class CompoundParameterizedEntityAndListItemControllerStateMediatorParameter extends ParameterizedEntityAndListItemControllerStateMediatorParameter {
+  List<ParameterizedEntityAndListItemControllerStateMediatorParameter> parameterizedEntityAndListItemControllerStateMediatorParameterList;
+
+  CompoundParameterizedEntityAndListItemControllerStateMediatorParameter({
+    required this.parameterizedEntityAndListItemControllerStateMediatorParameterList,
+  });
+}
